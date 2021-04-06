@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".WorkingDaysActivity">
+
+    <include
+        android:id="@+id/workingdays_activity_toolbar"
+        layout="@layout/toolbar_layout">
+    </include>
+    <ListView
+        android:id="@+id/list_view_Date"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/workingdays_activity_toolbar"
+        android:layout_above="@+id/tvdateView"/>
+    <TextView
+        android:id="@+id/tvdateView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tap on VIEW CALENDER button to select date"
+        android:gravity="center"
+        android:layout_above="@+id/myLinearLayout"
+        />
+    <LinearLayout
+        android:id="@+id/myLinearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true">
+
+
+
+        <Button
+            android:id="@+id/btnselectdate"
+            android:layout_width="205dp"
+            android:layout_height="wrap_content"
+            android:text="View Calender"
+            />
+        <Button
+            android:id="@+id/btnuploaddate"
+            android:layout_width="205dp"
+            android:layout_height="wrap_content"
+            android:text="upload Date"
+            />
+    </LinearLayout>
+
+</RelativeLayout>

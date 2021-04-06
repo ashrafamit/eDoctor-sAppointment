@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">eDoctor-s Appointment</string>
+    <string name="drawerOpen">drawerOpen</string>
+    <string name="drawerClose">drawerClose</string>
+    <string-array name="userType">
+        <item>User Status</item>
+        <item>Doctor</item>
+        <item>Patient</item>
+    </string-array>
+    <string-array name="category">
+        <item>Specialist As</item>
+        <item>Haematologist</item>
+        <item>Podiatrist</item>
+        <item>General Practitioner</item>
+        <item>Pediatrician</item>
+        <item>Endocrinologist</item>
+        <item>Neurologist</item>
+        <item>Rheumatologist</item>
+        <item>Allergist/Immunologist</item>
+        <item>Psychiatrist</item>
+        <item>Nephrologist</item>
+        <item>Obstetrician/Gynecologist</item>
+        <item>Pulmonologist</item>
+        <item>Surgeon</item>
+        <item>Emergency Physician</item>
+        <item>Ophthalmologist</item>
+        <item>Oncologist</item>
+        <item>Urologist</item>
+        <item>Otolaryngologist</item>
+        <item>Anesthesiologist</item>
+        <item>Dermatologist</item>
+        <item>Radiologist</item>
+        <item>Gastroenterologist</item>
+        <item>Cardiologist</item>
+        <item>Orthopedist</item>
+    </string-array>
+
+    <string-array name="doctorsCategories">
+        <item>Haematologist</item>
+        <item>Podiatrist</item>
+        <item>General Practitioner</item>
+        <item>Pediatrician</item>
+        <item>Endocrinologist</item>
+        <item>Neurologist</item>
+        <item>Rheumatologist</item>
+        <item>Allergist/Immunologist</item>
+        <item>Psychiatrist</item>
+        <item>Nephrologist</item>
+        <item>Obstetrician/Gynecologist</item>
+        <item>Pulmonologist</item>
+        <item>Surgeon</item>
+        <item>Emergency Physician</item>
+        <item>Ophthalmologist</item>
+        <item>Oncologist</item>
+        <item>Urologist</item>
+        <item>Otolaryngologist</item>
+        <item>Anesthesiologist</item>
+        <item>Dermatologist</item>
+        <item>Radiologist</item>
+        <item>Gastroenterologist</item>
+        <item>Cardiologist</item>
+        <item>Orthopedist</item>
+    </string-array>
+
+    <string-array name="update">
+        <item>Select</item>
+        <item>name</item>
+        <item>chamber</item>
+        <item>degree</item>
+        <item>designation</item>
+        <item>phone</item>
+        <item>workingHour</item>
+    </string-array>
+</resources>

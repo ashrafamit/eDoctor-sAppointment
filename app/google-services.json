@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "711568997192",
+    "firebase_url": "https://edoctor-s-appointment.firebaseio.com",
+    "project_id": "edoctor-s-appointment",
+    "storage_bucket": "edoctor-s-appointment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711568997192:android:59e6b61452f25ab6c0917d",
+        "android_client_info": {
+          "package_name": "com.ashrafamit.edoctorsappointment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711568997192-tlrecijt8305a4anngh51invpt92gpq4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ashrafamit.edoctorsappointment",
+            "certificate_hash": "f31e534dea70a64bf56cca5579b477c787a5f9af"
+          }
+        },
+        {
+          "client_id": "711568997192-p2rj37rj2ojfq0kndi4489e9tcak3h7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFgLqSpING53g0HwkMHVxsilZm5l47Zlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711568997192-p2rj37rj2ojfq0kndi4489e9tcak3h7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
